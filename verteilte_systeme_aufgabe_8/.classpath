@@ -7,5 +7,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="/Users/kiara/Downloads/apache-activemq-5.17.0/activemq-all-5.17.0.jar"/>
+	<classpathentry kind="lib" path="/Users/kiara/Downloads/spring-2.5.6.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
